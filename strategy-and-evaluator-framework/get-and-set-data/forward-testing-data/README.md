@@ -1,0 +1,2 @@
+# Simulated Trade History
+

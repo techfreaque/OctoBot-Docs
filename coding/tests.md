@@ -23,4 +23,3 @@ pytest tentacles
 ```
 
 This will run all tests in the **tentacles** folder. Testing tentacles works only if tentacles are installed on the tested OctoBot. See [OctoBot's tentacle manager](https://www.octobot.info/advanced_usage/tentacle-manager) to install tentacles.
-

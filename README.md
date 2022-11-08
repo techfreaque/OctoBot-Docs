@@ -6,6 +6,12 @@
 Basically watching one hour of a beginner python video course is enough to get started.
 {% endhint %}
 
+### more python beginner tips:
+
+{% content-ref url="strategy-and-evaluator-framework-overview/its-python.md" %}
+[its-python.md](strategy-and-evaluator-framework-overview/its-python.md)
+{% endcontent-ref %}
+
 ## Step 2 - setup OctoBot developer environment
 
 {% hint style="success" %}
@@ -16,22 +22,28 @@ Once setup you'll love the OctoBot Developer environment.
 [developer-installation](installation/developer-installation/)
 {% endcontent-ref %}
 
-## Step 3 - learn how to create Tentacles&#x20;
+## Step 3 - Learn how to create Tentacles&#x20;
 
 {% hint style="success" %}
-Octobot Tentacles are apps/extensions for OctoBot.
+Octobot Tentacles are apps for OctoBot.
 {% endhint %}
 
 {% hint style="success" %}
-A tentacle can be what ever you want it to be. For example an Indicator, a Strategy, a new Feature for the web interface or for something else. All of these can be packed in one tentacle bundle.
+A tentacle can be what ever you want it to be. For example a Indicator, a Strategy, a new Feature or all together in one tentacle.
 {% endhint %}
 
 {% content-ref url="tentacles/customize-your-octobot.md" %}
 [customize-your-octobot.md](tentacles/customize-your-octobot.md)
 {% endcontent-ref %}
 
-## Step 4 - contribute to OctoBot
+## Step 4 - become a strategy developer
 
-{% content-ref url="octobot/contribution.md" %}
-[contribution.md](octobot/contribution.md)
+{% content-ref url="strategy-and-evaluator-framework-overview/become-a-strategy-developer.md" %}
+[become-a-strategy-developer.md](strategy-and-evaluator-framework-overview/become-a-strategy-developer.md)
+{% endcontent-ref %}
+
+## Step 5 - contribute to OctoBot
+
+{% content-ref url="guides/contribution.md" %}
+[contribution.md](guides/contribution.md)
 {% endcontent-ref %}

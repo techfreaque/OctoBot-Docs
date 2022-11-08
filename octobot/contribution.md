@@ -1,6 +1,6 @@
 # Contribution
 
-Please have a look at our [developer guide](developer-guide.md).
+Please have a look at our [developer getting started guide](../).
 
 ## Contributing to OctoBot
 
@@ -8,5 +8,4 @@ See the associated [document](https://github.com/Drakkar-Software/OctoBot/blob/d
 
 ## Code of conduct
 
-See the associated [document](https://github.com/Drakkar-Software/OctoBot/blob/dev/CODE_OF_CONDUCT.md).
-
+See the associated [document](https://github.com/Drakkar-Software/OctoBot/blob/dev/CODE\_OF\_CONDUCT.md).
